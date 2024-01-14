@@ -86,7 +86,11 @@
 }
 
 .about-image {
-  background-image: url("https://dummyimage.com/1200x1200/5e5e5e/404040");
+  background-image: url("https://i.ibb.co/m4wfbVg/kazuha.png");
+}
+
+.contact-image{
+  background-image: url("https://i.ibb.co/RhhmPFj/kafka.png");
 }
 
 .menu__controls {
