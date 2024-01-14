@@ -200,8 +200,8 @@ $(function() {
   // --------------------------------------------- //
   // KBW-Countdown Start
   // --------------------------------------------- //
-  $('#countdown').countdown({until: $.countdown.UTCDate(+10, 2023, 3, 19), format: 'D'});
-  $('#countdown-large').countdown({until: $.countdown.UTCDate(+10, 2023, 3, 19), format: 'DHMS'});
+  $('#countdown').countdown({until: $.countdown.UTCDate(+7, 2024, 3, 19), format: 'D'});
+  $('#countdown-large').countdown({until: $.countdown.UTCDate(+7, 2024, 3, 19), format: 'DHMS'});
   // --------------------------------------------- //
   // KBW-Countdown End
   // --------------------------------------------- //
